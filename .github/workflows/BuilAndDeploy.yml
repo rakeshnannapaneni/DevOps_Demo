@@ -37,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: webapp.war
-        path: /home/runner/Deploy_TC/Newtons_College/Newtons_College/webapp/target/webapp.war
+        path: /home/runner/work/Newtons_College/Newtons_College/webapp/target/webapp.war
   Deploy:
     runs-on: TC_Deploy
     needs: build
