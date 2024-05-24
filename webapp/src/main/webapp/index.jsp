@@ -196,7 +196,7 @@ span.psw {
             <div class="home-text" >
                 
                 <h3 style="color: white; letter-spacing: 3px;">Welcome to Newtown's College</h3>
-                <h1 style="color: white;"> Newtons College Portal</h1>
+                <h1 style="color: white;"> My College</h1>
                 <p style="color: white;">The purpose of Newtons College is to prepare students with promise
                     to enhance their intellectual, physical, social, emotional, spiritual,
                     and artistic growth so that they may realize their power for good
