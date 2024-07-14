@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE-edge">
 <meta name="viewport" content="width=device-width, intial-scale=1.0">
-<title>Madanapalle Inst Of Tech & Science</title>
+<title>Saradhi Science & Tech</title>
 <link rel="stylesheet" href="css/style.css"/>
 <!--fav-icon-->
 <link rel="shortcut icon" href="images/favicon.png"/>
@@ -186,7 +186,7 @@ span.psw {
           </div>
         <!-- login modal end  -->
     <header>
-        <h1>Welcome to All Students</h1>
+        <h1>Welcome to new Students</h1>
     </header>
 
         <!--main-content-->
@@ -195,7 +195,7 @@ span.psw {
             <!--text-->
             <div class="home-text" >
                 
-                <h3 style="color: white; letter-spacing: 3px;">Welcome to Newtown's College</h3>
+                <h3 style="color: white; letter-spacing: 3px;">Welcome to Saradhi's College</h3>
                 <h1 style="color: white;"> </h1>
                 <p style="color: white;">The purpose of My College is to prepare students with promise
                     to enhance their intellectual, physical, social, emotional, spiritual,
