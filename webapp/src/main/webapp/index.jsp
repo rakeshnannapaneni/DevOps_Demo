@@ -202,7 +202,7 @@ span.psw {
                     and artistic growth so that they may realize their power for good
                     as citizens</p>
             <!--login-btn-->
-            <a href="#" class="main-login" style="border-radius: 5px;">Apply Now</a>
+            <a href="#" class="main-login" style="border-radius: 5px;">Apply Here</a>
             </div>
             <!--img-->
             <div class="home-img" style="width: 500px;">
