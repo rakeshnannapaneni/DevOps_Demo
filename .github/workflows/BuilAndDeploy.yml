@@ -42,10 +42,7 @@ jobs:
     runs-on: self-hosted
     needs: build
     steps:
-      - name: Java Maven
-        run: |
-          echo "display text of saradhi.txt"
-          echo "displayed text of saradhi.txt"
+    
       - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
@@ -55,8 +52,8 @@ jobs:
         run: |
           echo "display artifacts"
           ls -ltr ./artifacts
-          cp -f ./artifacts/webapp.war  /home/eswar/Tomcat/apache-tomcat-9.0.89/webapps
-          nohup /home/eswar/Tomcat/apache-tomcat-9.0.89/bin/startup.sh &
+          cp -f ./artifacts/webapp.war  $HOME/TOMCAT/apache-tomcat-*/webapps
+          nohup $HOME/TOMCAT/apache-tomcat-*/bin/startup.sh &
           echo "completed"
           
 
